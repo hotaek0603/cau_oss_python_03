@@ -23,5 +23,4 @@ print("Invalid operation”)
 continue
 print(f"{fnuml}{fop}y{fnum2} = {ret}") 
 print("Exit program”)
-##·2023-04-06
-Homework#2,simple·calculator·구현
+
